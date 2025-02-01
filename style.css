@@ -44,14 +44,16 @@ body {
     #inp {
         width: 80%;
         height: 180px;
-        font-size: 2em;
+        font-size: 4em;
+        direction: rtl;
     }
     #add {
         width: 20%;
         height: auto;
-        font-size: 2em;
+        font-size: 2.7em;
         background-color: green;
         color: white;
+        box-shadow: -17px -17px 20px black inset;
     }
     ul {
         list-style-type: none;
